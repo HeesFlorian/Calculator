@@ -1,4 +1,4 @@
-import inlcude.operations as f
+import include.operations as f
 
 operations = {
     "1": ("Add", f.add, 2),
